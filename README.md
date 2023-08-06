@@ -3,4 +3,15 @@
 
 #### The data used for this report has been extracted by writing scripts in Python and then transformed using data build tool (dbt). This transformed data was then connected to Power BI Desktop where the report was created. 
 
+#### Pages/Tabs on the report are:
+
+1. Home (used for page navigation)
+2. Dashboard (gives and overall summary)
+3. Sales
+4. Time Intelligence
+5. Refunds
+6. City
+7. RFM Analysis
+
+
 
